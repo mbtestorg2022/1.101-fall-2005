@@ -36,8 +36,45 @@ Grading
 
 Grades will be based both on participation and on final reports. Participation comprises attendance, attitude, and industry in class, as well as the keeping of a clear and accurate project notebook. Overall weighting will be as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Final Reports | 50% |
-| Participation — notebook | 30% |
-| Participation — attendance, attitude, industry | 20%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Reports
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation — notebook
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation — attendance, attitude, industry
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

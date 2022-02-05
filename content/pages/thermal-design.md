@@ -19,10 +19,105 @@ There will be one in-lab practical exercise and an engineering report:
 
 2\. Each team will conduct and report on a Heat Loss Study of an MIT building or part thereof. ([PDF]({{< baseurl >}}/resources/project3))
 
-| WEEK # | LECTURES | LABS |
-| --- | --- | --- |
-| 11 |  {{< br >}}{{< br >}} Introduction to Thermal Design {{< br >}}{{< br >}} Review of heat transfer. Conduction, thermal conductivity and the heat equation, practical insulation materials used in Civil Engineering. Convective heat transfer. Radiative heat transfer, the Boltzmann equation, emissivity and reflectance. Relationship of surface temperature to heat flux at surface. {{< br >}}{{< br >}}  | &nbsp; |
-| 12 |  {{< br >}}{{< br >}} Thermography; Principles and Operation of Thermal Infrared Cameras {{< br >}}{{< br >}} Introduce the thermal IR camera (FLIR) and its operation, show examples of remote sensing studies in the thermal IR region, including heat loss of buildings; detection of 'buried' features in roads, walls, etc; identification of overheating components; target identification; etc. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Open lab, optional for both sections {{< br >}}{{< br >}} Hands-on experience with camera hardware and software {{< br >}}{{< br >}}  |
-| 13 | Building construction methods as related to thermal behavior. Discussion of Laboratory Exercise, and of Heat Loss Study. IR cameras will be available to be signed out by teams at various hours beginning this week. |  {{< br >}}{{< br >}} Each section constructs 'houses', connects instruments, begins experiment {{< br >}}{{< br >}} Each team declares target of their Heat Loss Study {{< br >}}{{< br >}}  |
-| 14 | Brief discussion of Heat Loss Study, then special lab session for teams to measure various thermal quantities on the 'houses'. | Regularly scheduled sections each have Open Lab, instructors available for consultation |
-| 15 | Final Reports due, in-class presentations | In-class presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+LECTURES
+{{< thclose >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to Thermal Design
+
+Review of heat transfer. Conduction, thermal conductivity and the heat equation, practical insulation materials used in Civil Engineering. Convective heat transfer. Radiative heat transfer, the Boltzmann equation, emissivity and reflectance. Relationship of surface temperature to heat flux at surface.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Thermography; Principles and Operation of Thermal Infrared Cameras
+
+Introduce the thermal IR camera (FLIR) and its operation, show examples of remote sensing studies in the thermal IR region, including heat loss of buildings; detection of 'buried' features in roads, walls, etc; identification of overheating components; target identification; etc.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Open lab, optional for both sections
+
+Hands-on experience with camera hardware and software
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Building construction methods as related to thermal behavior. Discussion of Laboratory Exercise, and of Heat Loss Study. IR cameras will be available to be signed out by teams at various hours beginning this week.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Each section constructs 'houses', connects instruments, begins experiment
+
+Each team declares target of their Heat Loss Study
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Brief discussion of Heat Loss Study, then special lab session for teams to measure various thermal quantities on the 'houses'.
+{{< tdclose >}}
+{{< tdopen >}}
+Regularly scheduled sections each have Open Lab, instructors available for consultation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Final Reports due, in-class presentations
+{{< tdclose >}}
+{{< tdopen >}}
+In-class presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
