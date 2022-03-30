@@ -4,6 +4,7 @@ description: This lab exercise covers the application of the glass electrode to 
   the pH of water.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/884dc1b5fac2fcb0716ba88d481fb9c0_lab1.pdf
 file_type: application/pdf
+parent_uid: 533362f3-d3ab-5f81-bbef-5ac88877a430
 resourcetype: Document
 title: lab1.pdf
 uid: 884dc1b5-fac2-fcb0-716b-a88d481fb9c0

@@ -4,6 +4,7 @@ description: This resource contains a figure showing a truss structure and solut
   of three equations.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/c6b376e8a27bfd1b866b6da809c5036d_classex1.pdf
 file_type: application/pdf
+parent_uid: 6f7763fc-ecbc-23c9-2169-9d9ce25d689e
 resourcetype: Document
 title: classex1.pdf
 uid: c6b376e8-a27b-fd1b-866b-6da809c5036d
