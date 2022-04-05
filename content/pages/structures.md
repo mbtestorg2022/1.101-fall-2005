@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Structures
 uid: 6f7763fc-ecbc-23c9-2169-9d9ce25d689e
 ---

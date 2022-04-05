@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Water Resources
 uid: 533362f3-d3ab-5f81-bbef-5ac88877a430
 ---

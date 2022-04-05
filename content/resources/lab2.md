@@ -4,6 +4,10 @@ description: This resource contains a laboratory exercise on design curve for ac
   neutralization by dissolution of calcium carbonate.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/f57c5aadebd0f5082dd10ebb52692fa1_lab2.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Water Resources
+parent_type: CourseSection
 parent_uid: 533362f3-d3ab-5f81-bbef-5ac88877a430
 resourcetype: Document
 title: lab2.pdf

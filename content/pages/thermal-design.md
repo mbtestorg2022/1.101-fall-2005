@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Thermal Design
 uid: d51c2ce7-9538-4a50-20ef-88704b6e9faf
 ---
